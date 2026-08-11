@@ -1,3 +1,5 @@
+
+
 # Claude Code Development Agents
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -76,7 +78,7 @@ This agent collection represents an **opinionated approach** to modern software 
 ### Option 1: Project-Level Installation
 1. Clone this repository to your project root:
    ```bash
-   git clone https://github.com/yourusername/claude-code-dev-agents.git .claude/agents
+   git clone https://github.com/ArkadioG/claude-code-dev-agents.git .claude/agents
    ```
 
 2. The agents will be available immediately in your Claude Code session for that project.
@@ -84,7 +86,7 @@ This agent collection represents an **opinionated approach** to modern software 
 ### Option 2: User-Level Installation  
 1. Clone to your user directory:
    ```bash
-   git clone https://github.com/yourusername/claude-code-dev-agents.git ~/.claude/agents
+   git clone https://github.com/ArkadioG/claude-code-dev-agents.git ~/.claude/agents
    ```
 
 2. Agents will be available across all your Claude Code projects.
