@@ -55,15 +55,13 @@ This agent collection represents an **opinionated approach** to modern software 
 - **Server-Side Web Developer** - HTMX, Alpine.js, Tailwind CSS, modern server-side rendering
 - **Mobile App Developer** - React Native, Flutter, mobile-specific integrations
 - **Database Engineer** - Schema design, query optimization, data modeling
-- **Cloud Infrastructure Engineer** - AWS/GCP/Azure, Terraform, containerization
+- **Cloud Infrastructure Engineer** - AWS/GCP/Azure, Terraform, containerization, CI/CD pipelines
 
 ### 🔧 Specialized Technical
 - **AI/ML Integration Specialist** - Model deployment, ML pipelines, AI service orchestration
 - **Security & Compliance Auditor** - Security frameworks, data protection, regulatory compliance
-- **API Design Specialist** - REST/GraphQL design, API documentation, integration strategies
 
 ### ⚡ Quality & Operations  
-- **DevOps Pipeline Engineer** - CI/CD automation, deployment pipelines
 - **Performance Optimizer** - Load testing, bottleneck analysis, optimization
 - **Testing Strategist** - Test automation, QA processes, testing frameworks
 
